@@ -1,1 +1,1 @@
-# Random-nuber-generator
+# Random-number-generator
